@@ -1,6 +1,8 @@
 # GyreModel
 Adapted MITgcm code and MATLAB code for generating wind forcing used in our gyre-model paper
 
+(I'm currently away for an Antarctic reaserch cruise and still a bit struggling with uploading files to GitHub due to the limited access to internet. If you want to check the code, https://drive.google.com/drive/folders/1mLF8XU8ZXuI9VThG5lEI7431BVXevGaQ?usp=sharing. Interested in the cool things that we're doing? https://thwaitesglacier.org/projects/tarsan. You can contact me via Yixi.Zheng.guest@nbp.usap.gov)
+
 This folder provide adapted MITgcm code and wind forcings for running the experiments mentioned in our paper "Reversal of ocean gyres near ice shelves in the Amundsen Sea caused by the interaction of sea ice and wind"
 
 The model code is adapted from MITgcm tutorial: 4.1. Barotropic Ocean Gyre, https://mitgcm.readthedocs.io/en/latest/examples/barotropic_gyre/barotropic_gyre.html 
